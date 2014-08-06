@@ -1,2 +1,3 @@
-Aviation-Maintenance-Magazine-iOS
+Aviation Maintenance Magazine iOS
 =================================
+
