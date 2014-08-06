@@ -44,6 +44,18 @@
     [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"NKDontThrottleNewsstandContentNotifications"];
     [[NSUserDefaults standardUserDefaults] synchronize];
 #endif
+  
+    if ( IDIOM == IPAD ) {
+        [[UINavigationBar appearance] setBackgroundImage:[Paintcode imageOfIPadNavbar]
+                                           forBarMetrics:UIBarMetricsDefault];
+    } else {
+        [[UINavigationBar appearance] setBackgroundImage:[Paintcode imageOfIphoneNavbar]
+                                           forBarMetrics:UIBarMetricsDefault];
+    }
+    
+    
+    [application setStatusBarHidden:NO];
+    [application setStatusBarStyle:UIStatusBarStyleLightContent];
     
     return YES;
 }
