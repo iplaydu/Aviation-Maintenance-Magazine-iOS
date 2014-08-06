@@ -15,24 +15,25 @@
 @interface Paintcode : NSObject
 
 // iOS Controls Customization Outlets
+@property(strong, nonatomic) IBOutletCollection(NSObject) NSArray* avmLogoTargets;
+@property(strong, nonatomic) IBOutletCollection(NSObject) NSArray* iPadNavbarTargets;
+@property(strong, nonatomic) IBOutletCollection(NSObject) NSArray* iphoneNavbarTargets;
 @property(strong, nonatomic) IBOutletCollection(NSObject) NSArray* trashIconTargets;
 @property(strong, nonatomic) IBOutletCollection(NSObject) NSArray* gearIconTargets;
 @property(strong, nonatomic) IBOutletCollection(NSObject) NSArray* refreshIconTargets;
-@property(strong, nonatomic) IBOutletCollection(NSObject) NSArray* iPadNavbarTargets;
-@property(strong, nonatomic) IBOutletCollection(NSObject) NSArray* iphoneNavbarTargets;
 
 // Colors
-+ (UIColor*)asiGreen;
-+ (UIColor*)asiOrange;
-+ (UIColor*)asiBlack;
-+ (UIColor*)asiGray;
-+ (UIColor*)asiWhite;
++ (UIColor*)avmBlack;
++ (UIColor*)avmGray;
++ (UIColor*)avmWhite;
++ (UIColor*)avmRed;
 
 // Generated Images
++ (UIImage*)imageOfAvmLogo;
++ (UIImage*)imageOfIPadNavbar;
++ (UIImage*)imageOfIphoneNavbar;
 + (UIImage*)imageOfTrashIcon;
 + (UIImage*)imageOfGearIcon;
 + (UIImage*)imageOfRefreshIcon;
-+ (UIImage*)imageOfIPadNavbar;
-+ (UIImage*)imageOfIphoneNavbar;
 
 @end
