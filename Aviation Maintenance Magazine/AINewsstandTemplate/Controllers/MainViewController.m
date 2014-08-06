@@ -103,7 +103,7 @@
 #pragma mark -
 
 -(void)loadData{
-    self.navigationItem.title = TITLE_LOADING;
+    //self.navigationItem.title = TITLE_LOADING;
     [self.collectionView setHidden:YES];
     [[ContentManager sharedManager] tryToLoadFromRemoteFile];
 }
@@ -124,7 +124,7 @@
     }
 }
 -(void)showContent {
-    self.navigationItem.title = [ContentManager sharedManager].magazineTitle;
+    //self.navigationItem.title = [ContentManager sharedManager].magazineTitle;
     [self.collectionView reloadData];
     [self.collectionView setHidden:NO];
 }
