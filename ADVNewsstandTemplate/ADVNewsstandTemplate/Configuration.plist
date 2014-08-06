@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IssueConfigurationLocation</key>
+	<string>http://www.avm-mag.com/wp-content/ipad-app/issues.json</string>
+	<key>SubscriptionText</key>
+	<string>Welcome to the iPad/iPhone version of Aviation Maintenance Magazine</string>
+	<key>iTunesSharedSecret</key>
+	<string></string>
+	<key>ImplementSubscriptionPurchases</key>
+	<false/>
+</dict>
+</plist>
