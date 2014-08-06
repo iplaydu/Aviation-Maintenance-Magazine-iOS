@@ -66,9 +66,7 @@
     [StoreManager sharedManager].delegate = self;
     
     // set settings bar button
-    UIBarButtonItem *settingsButton = [[UIBarButtonItem alloc] initWithImage:[UIImage imageNamed:@"settings.png"]
-                                                                       style:UIBarButtonItemStyleBordered target:self
-                                                                      action:@selector(changeSettings)];
+    UIBarButtonItem *settingsButton = [[UIBarButtonItem alloc] initWithImage:[Paintcode imageOfGearIcon] style:UIBarButtonItemStylePlain target:self action:@selector(changeSettings)];
     [self.navigationItem setLeftBarButtonItem:settingsButton];
     
     //set refresh button
