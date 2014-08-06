@@ -91,6 +91,7 @@
 		6CD3B72E1893FDD200F57493 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CD3B72D1893FDD200F57493 /* libsqlite3.0.dylib */; };
 		6CDF6C7F196A8ECA00A472F7 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CDF6C7E196A8ECA00A472F7 /* Parse.framework */; };
 		6CF6AA0E191808D30015AE9D /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CF6AA0D191808D30015AE9D /* StoreKit.framework */; };
+		E4C461E319922745003AEB89 /* Paintcode.m in Sources */ = {isa = PBXBuildFile; fileRef = E4C461E219922745003AEB89 /* Paintcode.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -248,6 +249,8 @@
 		6CD3B72D1893FDD200F57493 /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
 		6CDF6C7E196A8ECA00A472F7 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Parse.framework; sourceTree = "<group>"; };
 		6CF6AA0D191808D30015AE9D /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		E4C461E119922745003AEB89 /* Paintcode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Paintcode.h; sourceTree = "<group>"; };
+		E4C461E219922745003AEB89 /* Paintcode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Paintcode.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -492,6 +495,8 @@
 		6CBA4D31187FC01900EDC6D8 /* Aviation Maintenance Magazine */ = {
 			isa = PBXGroup;
 			children = (
+				E4C461E119922745003AEB89 /* Paintcode.h */,
+				E4C461E219922745003AEB89 /* Paintcode.m */,
 				6C9189F619616503007C8134 /* CONFIG */,
 				6CBA4D72187FC24F00EDC6D8 /* Controllers */,
 				6CBA4D76187FC25900EDC6D8 /* Views */,
@@ -724,6 +729,7 @@
 				6C3D87981893C13800CA7F09 /* SDWebImageDownloader.m in Sources */,
 				33908821190689400047B75D /* UIImage+TOWebViewControllerIcons.m in Sources */,
 				6C17161F196ECC9300B23E45 /* ReaderViewController.m in Sources */,
+				E4C461E319922745003AEB89 /* Paintcode.m in Sources */,
 				33DDF62418F729CC003FB9BC /* ContentManager.m in Sources */,
 				3390881F190689400047B75D /* TOActivitySafari.m in Sources */,
 				6C3D879D1893C13800CA7F09 /* UIImage+GIF.m in Sources */,
