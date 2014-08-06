@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6CBA4D27187FC01900EDC6D8"
-               BuildableName = "NewsstandTemplate.app"
+               BuildableName = "Aviation Maintenance Magazine.app"
                BlueprintName = "Aviation Maintenance Magazine"
                ReferencedContainer = "container:Aviation Maintenance Magazine.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6CBA4D4B187FC01900EDC6D8"
-               BuildableName = "NewsstandTemplateTests.xctest"
+               BuildableName = "Aviation Maintenance MagazineTests.xctest"
                BlueprintName = "Aviation Maintenance MagazineTests"
                ReferencedContainer = "container:Aviation Maintenance Magazine.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6CBA4D27187FC01900EDC6D8"
-            BuildableName = "NewsstandTemplate.app"
+            BuildableName = "Aviation Maintenance Magazine.app"
             BlueprintName = "Aviation Maintenance Magazine"
             ReferencedContainer = "container:Aviation Maintenance Magazine.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6CBA4D27187FC01900EDC6D8"
-            BuildableName = "NewsstandTemplate.app"
+            BuildableName = "Aviation Maintenance Magazine.app"
             BlueprintName = "Aviation Maintenance Magazine"
             ReferencedContainer = "container:Aviation Maintenance Magazine.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6CBA4D27187FC01900EDC6D8"
-            BuildableName = "NewsstandTemplate.app"
+            BuildableName = "Aviation Maintenance Magazine.app"
             BlueprintName = "Aviation Maintenance Magazine"
             ReferencedContainer = "container:Aviation Maintenance Magazine.xcodeproj">
          </BuildableReference>
