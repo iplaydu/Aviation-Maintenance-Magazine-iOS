@@ -3,7 +3,7 @@
     "in-app-purchase-id": "advnewsstand.subscription.paid",
     "issues": [
       	{
-    		"uniqueId"	: "001",
+    		"uniqueId"	: "002",
     		"title"		: "Magazine December 2013",
 	       	"date"		: "1 Dec 2013",
             "type"      : "html",
