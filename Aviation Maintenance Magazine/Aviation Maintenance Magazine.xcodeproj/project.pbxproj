@@ -213,18 +213,18 @@
 		6C9189F71961661A007C8134 /* Constants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
 		6CB6E9D518B24B0800BA511A /* NavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavigationController.m; sourceTree = "<group>"; };
 		6CB6E9D618B24B0800BA511A /* NavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavigationController.h; sourceTree = "<group>"; };
-		6CBA4D28187FC01900EDC6D8 /* NewsstandTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsstandTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CBA4D28187FC01900EDC6D8 /* Aviation Maintenance Magazine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Aviation Maintenance Magazine.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CBA4D2B187FC01900EDC6D8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6CBA4D2D187FC01900EDC6D8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		6CBA4D2F187FC01900EDC6D8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		6CBA4D33187FC01900EDC6D8 /* NewsstandTemplate-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NewsstandTemplate-Info.plist"; sourceTree = "<group>"; };
+		6CBA4D33187FC01900EDC6D8 /* Aviation Maintenance Magazine-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Aviation Maintenance Magazine-Info.plist"; sourceTree = "<group>"; };
 		6CBA4D35187FC01900EDC6D8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6CBA4D37187FC01900EDC6D8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6CBA4D39187FC01900EDC6D8 /* NewsstandTemplate-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NewsstandTemplate-Prefix.pch"; sourceTree = "<group>"; };
+		6CBA4D39187FC01900EDC6D8 /* Aviation Maintenance Magazine-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Aviation Maintenance Magazine-Prefix.pch"; sourceTree = "<group>"; };
 		6CBA4D3A187FC01900EDC6D8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6CBA4D3B187FC01900EDC6D8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		6CBA4D46187FC01900EDC6D8 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		6CBA4D4C187FC01900EDC6D8 /* NewsstandTemplateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewsstandTemplateTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CBA4D4C187FC01900EDC6D8 /* Aviation Maintenance MagazineTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Aviation Maintenance MagazineTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CBA4D4D187FC01900EDC6D8 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		6CBA4D73187FC24F00EDC6D8 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		6CBA4D74187FC24F00EDC6D8 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
@@ -445,7 +445,7 @@
 		6CBA4D1F187FC01900EDC6D8 = {
 			isa = PBXGroup;
 			children = (
-				6CBA4D31187FC01900EDC6D8 /* AINewsstandTemplate */,
+				6CBA4D31187FC01900EDC6D8 /* Aviation Maintenance Magazine */,
 				6CBA4D2A187FC01900EDC6D8 /* Frameworks */,
 				6CBA4D29187FC01900EDC6D8 /* Products */,
 			);
@@ -454,8 +454,8 @@
 		6CBA4D29187FC01900EDC6D8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6CBA4D28187FC01900EDC6D8 /* NewsstandTemplate.app */,
-				6CBA4D4C187FC01900EDC6D8 /* NewsstandTemplateTests.xctest */,
+				6CBA4D28187FC01900EDC6D8 /* Aviation Maintenance Magazine.app */,
+				6CBA4D4C187FC01900EDC6D8 /* Aviation Maintenance MagazineTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -489,7 +489,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		6CBA4D31187FC01900EDC6D8 /* AINewsstandTemplate */ = {
+		6CBA4D31187FC01900EDC6D8 /* Aviation Maintenance Magazine */ = {
 			isa = PBXGroup;
 			children = (
 				6C9189F619616503007C8134 /* CONFIG */,
@@ -502,6 +502,7 @@
 				6CBA4D46187FC01900EDC6D8 /* Images.xcassets */,
 				6CBA4D32187FC01900EDC6D8 /* Supporting Files */,
 			);
+			name = "Aviation Maintenance Magazine";
 			path = AINewsstandTemplate;
 			sourceTree = "<group>";
 		};
@@ -509,10 +510,10 @@
 			isa = PBXGroup;
 			children = (
 				6CBA4DAA187FEFF900EDC6D8 /* images */,
-				6CBA4D33187FC01900EDC6D8 /* NewsstandTemplate-Info.plist */,
+				6CBA4D33187FC01900EDC6D8 /* Aviation Maintenance Magazine-Info.plist */,
 				6CBA4D34187FC01900EDC6D8 /* InfoPlist.strings */,
 				6CBA4D37187FC01900EDC6D8 /* main.m */,
-				6CBA4D39187FC01900EDC6D8 /* NewsstandTemplate-Prefix.pch */,
+				6CBA4D39187FC01900EDC6D8 /* Aviation Maintenance Magazine-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -582,9 +583,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6CBA4D27187FC01900EDC6D8 /* NewsstandTemplate */ = {
+		6CBA4D27187FC01900EDC6D8 /* Aviation Maintenance Magazine */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CBA4D5D187FC01900EDC6D8 /* Build configuration list for PBXNativeTarget "NewsstandTemplate" */;
+			buildConfigurationList = 6CBA4D5D187FC01900EDC6D8 /* Build configuration list for PBXNativeTarget "Aviation Maintenance Magazine" */;
 			buildPhases = (
 				6CBA4D24187FC01900EDC6D8 /* Sources */,
 				6CBA4D25187FC01900EDC6D8 /* Frameworks */,
@@ -594,14 +595,14 @@
 			);
 			dependencies = (
 			);
-			name = NewsstandTemplate;
+			name = "Aviation Maintenance Magazine";
 			productName = AINewsstandTemplate;
-			productReference = 6CBA4D28187FC01900EDC6D8 /* NewsstandTemplate.app */;
+			productReference = 6CBA4D28187FC01900EDC6D8 /* Aviation Maintenance Magazine.app */;
 			productType = "com.apple.product-type.application";
 		};
-		6CBA4D4B187FC01900EDC6D8 /* NewsstandTemplateTests */ = {
+		6CBA4D4B187FC01900EDC6D8 /* Aviation Maintenance MagazineTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CBA4D60187FC01900EDC6D8 /* Build configuration list for PBXNativeTarget "NewsstandTemplateTests" */;
+			buildConfigurationList = 6CBA4D60187FC01900EDC6D8 /* Build configuration list for PBXNativeTarget "Aviation Maintenance MagazineTests" */;
 			buildPhases = (
 				6CBA4D48187FC01900EDC6D8 /* Sources */,
 				6CBA4D49187FC01900EDC6D8 /* Frameworks */,
@@ -612,9 +613,9 @@
 			dependencies = (
 				6CBA4D52187FC01900EDC6D8 /* PBXTargetDependency */,
 			);
-			name = NewsstandTemplateTests;
+			name = "Aviation Maintenance MagazineTests";
 			productName = AINewsstandTemplateTests;
-			productReference = 6CBA4D4C187FC01900EDC6D8 /* NewsstandTemplateTests.xctest */;
+			productReference = 6CBA4D4C187FC01900EDC6D8 /* Aviation Maintenance MagazineTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -642,7 +643,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6CBA4D23187FC01900EDC6D8 /* Build configuration list for PBXProject "NewsstandTemplate" */;
+			buildConfigurationList = 6CBA4D23187FC01900EDC6D8 /* Build configuration list for PBXProject "Aviation Maintenance Magazine" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -663,8 +664,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6CBA4D27187FC01900EDC6D8 /* NewsstandTemplate */,
-				6CBA4D4B187FC01900EDC6D8 /* NewsstandTemplateTests */,
+				6CBA4D27187FC01900EDC6D8 /* Aviation Maintenance Magazine */,
+				6CBA4D4B187FC01900EDC6D8 /* Aviation Maintenance MagazineTests */,
 			);
 		};
 /* End PBXProject section */
@@ -766,7 +767,7 @@
 /* Begin PBXTargetDependency section */
 		6CBA4D52187FC01900EDC6D8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CBA4D27187FC01900EDC6D8 /* NewsstandTemplate */;
+			target = 6CBA4D27187FC01900EDC6D8 /* Aviation Maintenance Magazine */;
 			targetProxy = 6CBA4D51187FC01900EDC6D8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -882,11 +883,11 @@
 					"$(PROJECT_DIR)/AINewsstandTemplate/ThirdParty",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "AINewsstandTemplate/NewsstandTemplate-Prefix.pch";
-				INFOPLIST_FILE = "AINewsstandTemplate/NewsstandTemplate-Info.plist";
+				GCC_PREFIX_HEADER = "AINewsstandTemplate/Aviation Maintenance Magazine-Prefix.pch";
+				INFOPLIST_FILE = "AINewsstandTemplate/Aviation Maintenance Magazine-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
-				PRODUCT_NAME = NewsstandTemplate;
+				PRODUCT_NAME = "Aviation Maintenance Magazine";
 				PROVISIONING_PROFILE = "775166B4-BC89-4ECF-9623-776FC46D906C";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -905,11 +906,11 @@
 					"$(PROJECT_DIR)/AINewsstandTemplate/ThirdParty",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "AINewsstandTemplate/NewsstandTemplate-Prefix.pch";
-				INFOPLIST_FILE = "AINewsstandTemplate/NewsstandTemplate-Info.plist";
+				GCC_PREFIX_HEADER = "AINewsstandTemplate/Aviation Maintenance Magazine-Prefix.pch";
+				INFOPLIST_FILE = "AINewsstandTemplate/Aviation Maintenance Magazine-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
-				PRODUCT_NAME = NewsstandTemplate;
+				PRODUCT_NAME = "Aviation Maintenance Magazine";
 				PROVISIONING_PROFILE = "775166B4-BC89-4ECF-9623-776FC46D906C";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -932,7 +933,7 @@
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = "AINewsstandTemplateTests/AINewsstandTemplateTests-Info.plist";
-				PRODUCT_NAME = NewsstandTemplateTests;
+				PRODUCT_NAME = "Aviation Maintenance MagazineTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -950,7 +951,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AINewsstandTemplate/AINewsstandTemplate-Prefix.pch";
 				INFOPLIST_FILE = "AINewsstandTemplateTests/AINewsstandTemplateTests-Info.plist";
-				PRODUCT_NAME = NewsstandTemplateTests;
+				PRODUCT_NAME = "Aviation Maintenance MagazineTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -959,7 +960,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6CBA4D23187FC01900EDC6D8 /* Build configuration list for PBXProject "NewsstandTemplate" */ = {
+		6CBA4D23187FC01900EDC6D8 /* Build configuration list for PBXProject "Aviation Maintenance Magazine" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CBA4D5B187FC01900EDC6D8 /* Debug */,
@@ -968,7 +969,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CBA4D5D187FC01900EDC6D8 /* Build configuration list for PBXNativeTarget "NewsstandTemplate" */ = {
+		6CBA4D5D187FC01900EDC6D8 /* Build configuration list for PBXNativeTarget "Aviation Maintenance Magazine" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CBA4D5E187FC01900EDC6D8 /* Debug */,
@@ -977,7 +978,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CBA4D60187FC01900EDC6D8 /* Build configuration list for PBXNativeTarget "NewsstandTemplateTests" */ = {
+		6CBA4D60187FC01900EDC6D8 /* Build configuration list for PBXNativeTarget "Aviation Maintenance MagazineTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CBA4D61187FC01900EDC6D8 /* Debug */,
