@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6CBA4D27187FC01900EDC6D8"
-               BuildableName = "Aviation Maintenance Magazine.app"
-               BlueprintName = "Aviation Maintenance Magazine"
-               ReferencedContainer = "container:Aviation Maintenance Magazine.xcodeproj">
+               BuildableName = "avm.app"
+               BlueprintName = "avm"
+               ReferencedContainer = "container:avm.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6CBA4D4B187FC01900EDC6D8"
-               BuildableName = "Aviation Maintenance MagazineTests.xctest"
-               BlueprintName = "Aviation Maintenance MagazineTests"
-               ReferencedContainer = "container:Aviation Maintenance Magazine.xcodeproj">
+               BuildableName = "avmTests.xctest"
+               BlueprintName = "avmTests"
+               ReferencedContainer = "container:avm.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6CBA4D27187FC01900EDC6D8"
-            BuildableName = "Aviation Maintenance Magazine.app"
-            BlueprintName = "Aviation Maintenance Magazine"
-            ReferencedContainer = "container:Aviation Maintenance Magazine.xcodeproj">
+            BuildableName = "avm.app"
+            BlueprintName = "avm"
+            ReferencedContainer = "container:avm.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6CBA4D27187FC01900EDC6D8"
-            BuildableName = "Aviation Maintenance Magazine.app"
-            BlueprintName = "Aviation Maintenance Magazine"
-            ReferencedContainer = "container:Aviation Maintenance Magazine.xcodeproj">
+            BuildableName = "avm.app"
+            BlueprintName = "avm"
+            ReferencedContainer = "container:avm.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6CBA4D27187FC01900EDC6D8"
-            BuildableName = "Aviation Maintenance Magazine.app"
-            BlueprintName = "Aviation Maintenance Magazine"
-            ReferencedContainer = "container:Aviation Maintenance Magazine.xcodeproj">
+            BuildableName = "avm.app"
+            BlueprintName = "avm"
+            ReferencedContainer = "container:avm.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6223BAC9-F9CF-45EB-AC5B-3B87647D2C27</string>
+	<key>IDESourceControlProjectName</key>
+	<string>avm</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E23A109B7B192D7C2C415D191C3FA17E6D7610F0</key>
+		<string>https://github.com/gregoryteach/Aviation-Maintenance-Magazine-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Aviation Maintenance Magazine/avm.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E23A109B7B192D7C2C415D191C3FA17E6D7610F0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gregoryteach/Aviation-Maintenance-Magazine-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E23A109B7B192D7C2C415D191C3FA17E6D7610F0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E23A109B7B192D7C2C415D191C3FA17E6D7610F0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Aviation%20Maintenance%20Magazine%20-%20iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

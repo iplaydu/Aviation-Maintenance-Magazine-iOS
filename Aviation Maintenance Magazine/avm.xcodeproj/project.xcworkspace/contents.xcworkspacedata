@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Aviation Maintenance Magazine.xcodeproj">
+      location = "self:avm.xcodeproj">
    </FileRef>
 </Workspace>

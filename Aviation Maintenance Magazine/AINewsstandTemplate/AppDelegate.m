@@ -18,6 +18,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+
     //In-App-Purchase
     [[SKPaymentQueue defaultQueue] addTransactionObserver:[StoreManager sharedManager]];
 
